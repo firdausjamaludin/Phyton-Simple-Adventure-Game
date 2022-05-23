@@ -1,4 +1,4 @@
-# Author: Firdaus Jamaludin
+# Author: Firdaus 
 import sys
 import time
 
